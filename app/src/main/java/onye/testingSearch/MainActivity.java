@@ -24,6 +24,8 @@ import onye.testingSearch.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
+    //need to make new how to search current one does not work
+
     // List View object
     ListView listView;
 
