@@ -4,4 +4,7 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="searchView">SEARCH</string>
+    <string name="textViewHint">Insert Name Here</string>
+    <string name="deleteButtonHint">Delete_Here</string>
+    <string name="searchButtonTXT">Search_Here</string>
 </resources>
