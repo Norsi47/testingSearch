@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // initialise ListView with id
-        listView = findViewById(R.id.listView);
+//        listView = findViewById(R.id.listView);
 
         // Add items to Array List
         mylist = new ArrayList<>();
